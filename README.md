@@ -1,6 +1,4 @@
 
-![Sakura](misc/images/sakura.png)
-
 Exercise 00: Spring Context
 
 Turn-in directory: ex00
@@ -17,8 +15,6 @@ In turn, both Printer implementations have a dependency on Renderer interface th
 Renderer also has a dependency on PreProcessor interface that pre-processes messages. Implementation of PreProcessorToUpperImpl translates all letters into upper case, while implementation of PreProcessorToLower translates all letters into lower case.
 
 UML diagram of classes is shown below:
-
-![Diagram of classes](misc/images/Diagram.png)
 
 
 Exercise 01: JdbcTemplate
